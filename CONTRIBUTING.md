@@ -33,3 +33,13 @@ Add your profile in a similar way.
 - GitHub: [Bhavesh Balendra](https://github.com/bhaveshbalendra)
   
 Add your profile in a similar way.
+
+## Bhavesh Balendra
+
+- Place: Raipur, Chhattisgarh, India
+- Bio: 4rd Year Student (IIIT Raipur).
+- Project: cloudinary-multer mern project
+- GitHub: [Bhavesh Balendra](https://github.com/bhaveshbalendra)
+  
+Add your profile in a similar way.
+
