@@ -25,3 +25,11 @@ Add your profile in a similar way.
   
 Add your profile in a similar way.
 
+## Bhavesh Balendra
+
+- Place: Raipur, Chhattisgarh, India
+- Bio: 4rd Year Student (IIIT Raipur).
+- Project: TemperatureConversion simple js html and css
+- GitHub: [Bhavesh Balendra](https://github.com/bhaveshbalendra)
+  
+Add your profile in a similar way.
